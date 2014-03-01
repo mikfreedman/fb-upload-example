@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+require_relative(File.join("..", "lib", "fb_upload"))
